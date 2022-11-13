@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "name": "yeho",
+      "email": "yeho@gmail.com",
+      "phone": "435738405703485",
+      "id": 4
+    },
+    {
+      "name": "yehos",
+      "email": "yho@gmil",
+      "phone": "23478234",
+      "id": 5
+    },
+    {
+      "name": "fdsfsefwsd",
+      "email": "fgfgdfgd@fsdfs",
+      "phone": "34234234",
+      "id": 6
+    },
+    {
+      "name": "sdfsdfsdf",
+      "email": "@ssdfsdfsdf",
+      "phone": "234234234",
+      "id": 7
+    }
+  ]
+}
